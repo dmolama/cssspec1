@@ -30,5 +30,7 @@
 	Inspect FORMATTED-ALTERNATE
 		Converting "QWERTYUIOPASDFGHJKLZXCVBNM" 
 		TO "abcdefghijklmnopqrstuvwxyz".
-	DISPLAY FORMATTED-ALTERNATE.
+		
+	DISPLAY DISPLAY-ALTERNATE (1:4).
+	
     Stop Run.
